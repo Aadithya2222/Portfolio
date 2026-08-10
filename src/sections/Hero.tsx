@@ -120,7 +120,7 @@ export const Hero: React.FC = () => {
             {/* Actual photo card container */}
             <div className="absolute inset-4 rounded-2xl overflow-hidden border border-slate-150 shadow-md bg-white">
               <img
-                src="/aadithya_photo.jpg"
+                src="aadithya_photo.jpg"
                 alt={personalInfo.name}
                 className="w-full h-full object-cover object-center grayscale hover:grayscale-0 transition-all duration-500"
                 draggable="false"

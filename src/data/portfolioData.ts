@@ -46,7 +46,7 @@ export const personalInfo = {
   github: 'https://github.com/Aadithya2222',
   linkedin: 'https://www.linkedin.com/in/aadithya2006',
   portfolio: 'https://3d-portfolio-sable-gamma.vercel.app/',
-  resumeUrl: '/resume/Aadithya_R_Resume.pdf',
+  resumeUrl: 'resume/Aadithya_R_Resume.pdf',
   positioning: [
     'AI / ML Engineer',
     'Software Engineer',
